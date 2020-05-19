@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import ReactTypingEffect from 'react-typing-effect';
 
 export default class Typewriting extends Component {
     constructor(props) {
